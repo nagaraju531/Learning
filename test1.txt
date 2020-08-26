@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
 Adding 1234
-||||||| constructed merge base
-=======
 Adding new line
->>>>>>> Stashed changes
+
